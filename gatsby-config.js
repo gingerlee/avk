@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/avk",
   siteMetadata: {
     description: "Portfolio site for Alex V Kretschmer, Senior Data Analyst at Adidas",
     locale: "en",
