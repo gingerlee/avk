@@ -17,10 +17,9 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-emoji-favicon',
+      resolve: 'gatsby-plugin-manifest',
       options: {
-        emoji: '🛸',
-        legacy: true
+        icon: 'content/images/favicon.png'
       }
     }
   ],

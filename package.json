@@ -10,7 +10,7 @@
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
     "gatsby": "^3.13.0",
-    "gatsby-plugin-emoji-favicon": "^1.5.0",
+    "gatsby-plugin-manifest": "^3.13.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
