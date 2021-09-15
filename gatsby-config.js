@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: 'content/images/orb.png'
+        icon: 'content/images/space.png'
       }
     }
   ],
