@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     description: "Portfolio site for Alex V Kretschmer, Senior Data Analyst at Adidas",
     locale: "en",
-    title: "Alex Kretschmer 🌲 Senior Data Analyst",
+    title: "Alex v Kretschmer — Senior Data Analyst",
     formspreeEndpoint: "https://formspree.io/f/mvodlgkv",
   },
   plugins: [
