@@ -1,9 +1,8 @@
 module.exports = {
-  pathPrefix: "/avk",
   siteMetadata: {
     description: "Portfolio site for Alex V Kretschmer, Senior Data Analyst at Adidas",
     locale: "en",
-    title: "Alex V Kretschmer — Senior Data Analyst",
+    title: "Alex Kretschmer 🌲 Senior Data Analyst",
     formspreeEndpoint: "https://formspree.io/f/mvodlgkv",
   },
   plugins: [
