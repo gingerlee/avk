@@ -10,7 +10,7 @@
 
 - name: Census Income Data Set
   url: https://github.com
-  description: Using R to analzye large census income data set to answer a variety of life quality questions and predictors.
+  description: Using R to tease apart and analyze large census income data sets to answer a variety of life quality questions and predictors.
   status: live
   tags:
     - R

@@ -1,5 +1,11 @@
+- name: goodreads
+  url: https://www.goodreads.com/user/show/52132335-alex-kretschmer
+
 - name: linkedin
   url: https://linkedin.com/in/alexkretschmer/
+
+- name: github
+  url: https://github.com/kretsch55
 
 - name: twitter
   url:
@@ -18,12 +24,6 @@
 
 - name: producthunt
   url:
-
-- name: github
-  url: https://github.com/kretsch55
-
-- name: goodreads
-  url: https://www.goodreads.com/user/show/52132335-alex-kretschmer
 
 - name: xing
   url:
