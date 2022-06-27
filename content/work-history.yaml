@@ -11,7 +11,7 @@
 - company: ClearResult
   position: Business Analyst
   period: January 2013 - December 2018
-  url:
+  url: https://www.clearesult.com/
 
 - company: Fluid Market Strategies
   position: Data Analyst
@@ -21,7 +21,9 @@
 - company: Grünerløkka Brygghus
   position: Bartender
   period: January 2011 - July 2011
+  url: https://brygghus.no/
 
 - company: PECI
   position: Senior Project Coordinator
   period: September 2007 - November 2010
+  url: https://peci.org/

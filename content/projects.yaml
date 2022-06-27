@@ -1,4 +1,4 @@
-- name: UFO Midterm
+- name: Space Exploration - UFO Midterm
   url: https://github.com
   description: Analyze a variety of data points related to the National UFO Reporting Center Online Database and provide visualizations showing the extent of UFO sightings in Oregon, as well as the rest of the United States.
   status: live
@@ -8,9 +8,9 @@
   icon: github
   image: images/ufo.png
 
-- name: Census Income Data Set
+- name: Census Income Data Analysis
   url: https://github.com
-  description: Using R to tease apart and analyze large census income data sets to answer a variety of life quality questions and predictors.
+  description: Using R to analyze large census income data sets to answer a variety of life quality questions and predictors.
   status: live
   tags:
     - R
