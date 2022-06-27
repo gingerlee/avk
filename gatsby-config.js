@@ -6,7 +6,6 @@ module.exports = {
     title: 'Alex Kretschmer — Senior Data Analyst',
     formspreeEndpoint: 'https://formspree.io/f/mvodlgkv',
   },
-  pathPrefix: '/avk',
   plugins: [
     {
       resolve: '@wkocjan/gatsby-theme-intro',
