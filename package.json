@@ -5,8 +5,8 @@
   "author": "Ginger Lee Kretschmer",
   "license": "MIT",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public",
-    "dev": "gatsby build && gatsby serve"
+    "deploy": "gatsby build",
+    "dev": "gatsby develop"
   },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
