@@ -13,14 +13,7 @@ module.exports = {
         basePath: '/',
         contentPath: 'content/',
         showThemeLogo: false,
-        theme: 'classic',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'images',
-        path: 'content/images',
+        theme: 'dark-blue',
       },
     },
     {

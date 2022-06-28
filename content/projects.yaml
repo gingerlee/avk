@@ -1,17 +1,13 @@
-- name: Space Exploration - UFO Midterm
-  url: https://github.com
-  description: Analyze a variety of data points related to the National UFO Reporting Center Online Database and provide visualizations showing the extent of UFO sightings in Oregon, as well as the rest of the United States.
-  status: live
+- name: Space Exploration - UFO Sighings
+  description: In this final project I used python to analyze data from the National UFO Reporting Center Database and create data visualizations showing the extent of UFO sightings in Oregon, and the United States as a whole.
   tags:
     - Python
     - Matplotlib
-  icon: github
+  icon: website
   image: images/ufo.jpg
 
-- name: Census Income Data Analysis
-  url: https://github.com
-  description: Using R to analyze large census income data sets to answer a variety of life quality questions and predictors.
-  status: live
+- name: Quality of Life - Told by Cencus Income
+  description: In this midterm project I used R to analyze large census income data sets to answer a variety of life quality questions and predictors.
   tags:
     - R
     - Scatter plot

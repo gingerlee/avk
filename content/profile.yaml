@@ -6,7 +6,7 @@
   location: Sisters, Oregon
   relocation: false
   company: Atlassian
-  for_hire: true
+  for_hire: false
   focus: MS in Data Analytics, Oregon State
   focus_url: https://ecampus.oregonstate.edu/online-degrees/graduate/data-analytics/
   about: |
@@ -21,8 +21,8 @@
     - Python
   tools:
     - Tableau
-    - Alteryx
-    - Excel
+    - Confluence
+    - JIRA
   budget:
     currency: $
     min: 5
