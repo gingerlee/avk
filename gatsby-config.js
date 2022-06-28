@@ -17,9 +17,16 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        path: '/content/images',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: 'content/images/space.png',
+        icon: 'content/images/space.jpg',
       },
     },
   ],

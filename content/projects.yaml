@@ -6,7 +6,7 @@
     - Python
     - Matplotlib
   icon: github
-  image: images/ufo.png
+  image: images/ufo.jpg
 
 - name: Census Income Data Analysis
   url: https://github.com
@@ -16,4 +16,4 @@
     - R
     - Scatter plot
   icon: website
-  image: images/census.png
+  image: images/census.jpg
