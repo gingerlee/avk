@@ -1,4 +1,4 @@
-- name: Space Exploration - UFO Sighings
+- name: Space Exploration - UFO Sightings
   description: In this final project I used python to analyze data from the National UFO Reporting Center Database and create data visualizations showing the extent of UFO sightings in Oregon, and the United States as a whole.
   tags:
     - Python
@@ -6,7 +6,7 @@
   icon: website
   image: images/ufo.jpg
 
-- name: Quality of Life - Told by Cencus Income
+- name: Quality of Life - Decoding Census Data
   description: In this midterm project I used R to analyze large census income data sets to answer a variety of life quality questions and predictors.
   tags:
     - R
